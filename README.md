@@ -19,3 +19,10 @@ ipython kernel install --user --name=inz
 
 pip install ultralytics
 
+pip install supervision==0.7.0
+
+conda install -c conda-forge lap
+pip uninstall numpy
+pip install numpy==1.24.1
+
+pip install plotly
