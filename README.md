@@ -26,3 +26,5 @@ pip uninstall numpy
 pip install numpy==1.24.1
 
 pip install plotly
+
+pip install shapely
